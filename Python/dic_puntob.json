@@ -1,0 +1,872 @@
+{
+    "data": [
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Introducción a la Arquitectura",
+            "Nombre": "Lamar",
+            "Apellido": "Alford"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Empresa como sistema",
+            "Nombre": "Lamar",
+            "Apellido": "Mcleod"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Contabilidad",
+            "Nombre": "Deacon",
+            "Apellido": "Jordan"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Técnicas Completas de Ilustración Kawaii",
+            "Nombre": "Craig",
+            "Apellido": "Burns"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Diseño de Interfaces Web y Móviles",
+            "Nombre": "Lamar",
+            "Apellido": "Alford"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Procreate de Cero a Profesional",
+            "Nombre": "Amery",
+            "Apellido": "Wise"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Comunicación Organizacional",
+            "Nombre": "David",
+            "Apellido": "Petty"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Adobe Photoshop CC desde cero: Experto en diseño gráfico",
+            "Nombre": "Rhoda",
+            "Apellido": "Burch"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Principios de Metodologías Lean UX y Agile",
+            "Nombre": "Madaline",
+            "Apellido": "Sykes"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Pensamiento Creativo",
+            "Nombre": "Carter",
+            "Apellido": "Weber"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Ilustración Intermedia",
+            "Nombre": "Ivor",
+            "Apellido": "Phillips"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: Liderazgo",
+            "Nombre": "Luke",
+            "Apellido": "Munoz"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de Aprendizaje: Representación bidimensional",
+            "Nombre": "Patience",
+            "Apellido": "Hyde"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Composición del guion",
+            "Nombre": "Phoebe",
+            "Apellido": "Richards"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Negociación y Comunicación Estratégica",
+            "Nombre": "Kelsie",
+            "Apellido": "Rivera"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de aprendizaje: Necesidades en la banca comercial",
+            "Nombre": "Kelsie",
+            "Apellido": "Rivera"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Content Marketing para Redes Sociales",
+            "Nombre": "Robert",
+            "Apellido": "Hunt"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Facebook e Instagram Ads: Campañas desde cero",
+            "Nombre": "Haley",
+            "Apellido": "Kirkland"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Transformación digital de ventas",
+            "Nombre": "Tamekah",
+            "Apellido": "English"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Técnicas de Dibujo para Diseño Industrial",
+            "Nombre": "Ignatius",
+            "Apellido": "Lester"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Social media experience",
+            "Nombre": "Linus",
+            "Apellido": "Blackwell"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Marketing Digital",
+            "Nombre": "Ivor",
+            "Apellido": "Phillips"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: El diseño gráfico en el campo laboral",
+            "Nombre": "Robert",
+            "Apellido": "Hunt"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de Aprendizaje: Estadística y Probabilidad I",
+            "Nombre": "Germaine",
+            "Apellido": "Schultz"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Automotivación y Motivación al Logro",
+            "Nombre": "Doris",
+            "Apellido": "Kirby"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: Álgebra Básica",
+            "Nombre": "Pearl",
+            "Apellido": "Lane"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Resolución de Conflictos",
+            "Nombre": "Eliana",
+            "Apellido": "Stark"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Storytelling: El arte de contar historias",
+            "Nombre": "Seth",
+            "Apellido": "Dodson"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Inteligencia Emocional",
+            "Nombre": "Celeste",
+            "Apellido": "Melendez"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: Enfoques Teóricos de la Creatividad",
+            "Nombre": "Ginger",
+            "Apellido": "Shepherd"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de aprendizaje: Herramienta para narrativa en ventas",
+            "Nombre": "Hedwig",
+            "Apellido": "Good"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Investigación de mercado y comportamiento del consumidor",
+            "Nombre": "Ruth",
+            "Apellido": "Carter"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Diseño Aplicado para la Investigación de Mercados",
+            "Nombre": "Tanek",
+            "Apellido": "Wyatt"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Estrategia de Marca",
+            "Nombre": "Ginger",
+            "Apellido": "Shepherd"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: Procesos Contables",
+            "Nombre": "Calvin",
+            "Apellido": "Schwartz"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: Principios en la Fotografía",
+            "Nombre": "Dexter",
+            "Apellido": "Barrett"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: El Consumidor y Marketing",
+            "Nombre": "Amery",
+            "Apellido": "Wise"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de aprendizaje: Narrativa digital",
+            "Nombre": "Alec",
+            "Apellido": "Barrera"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: Aritmética",
+            "Nombre": "Joy",
+            "Apellido": "Sharpe"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Introducción a las finanzas",
+            "Nombre": "Seth",
+            "Apellido": "Dodson"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Blockchain",
+            "Nombre": "Stone",
+            "Apellido": "Terry"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lenguaje Audiovisual Desde Cero",
+            "Nombre": "Sybill",
+            "Apellido": "Holland"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Aumenta tu inteligencia financiera",
+            "Nombre": "Kristen",
+            "Apellido": "Holden"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Comercialización Estratégica",
+            "Nombre": "Haley",
+            "Apellido": "Kirkland"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Diseño Arquitectónico",
+            "Nombre": "Omar",
+            "Apellido": "Moon"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Inteligencia Emocional",
+            "Nombre": "Carter",
+            "Apellido": "Weber"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Cloud Computing",
+            "Nombre": "Curran",
+            "Apellido": "Weeks"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: Procesos Aatencionales",
+            "Nombre": "Gage",
+            "Apellido": "Macdonald"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: Transformación digital",
+            "Nombre": "Ivor",
+            "Apellido": "Phillips"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Programación en Objetos",
+            "Nombre": "Rooney",
+            "Apellido": "Head"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de aprendizaje: Trabajo en equipo",
+            "Nombre": "Gage",
+            "Apellido": "Macdonald"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de Aprendizaje: Sistema financiero",
+            "Nombre": "Joy",
+            "Apellido": "Sharpe"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de Aprendizaje: Variaciones Presupuestales",
+            "Nombre": "Cyrus",
+            "Apellido": "Ross"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "TikTok para empresas",
+            "Nombre": "Keegan",
+            "Apellido": "Mccarthy"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Mejora de Procesos",
+            "Nombre": "Ruth",
+            "Apellido": "Carter"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: Estructura de Proyectos",
+            "Nombre": "Kelsie",
+            "Apellido": "Rivera"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Introducción a la Creatividad",
+            "Nombre": "Shay",
+            "Apellido": "House"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de Aprendizaje: Elementos de la Composición Visual",
+            "Nombre": "Gloria",
+            "Apellido": "Thompson"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: Inteligencia Social y Emocional",
+            "Nombre": "Fiona",
+            "Apellido": "French"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: E-Business Aplicado",
+            "Nombre": "Germane",
+            "Apellido": "Ball"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Diagramación y Composición",
+            "Nombre": "Gloria",
+            "Apellido": "Thompson"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: Manejo de herramientas en dibujo vectorial ",
+            "Nombre": "Rhoda",
+            "Apellido": "Burch"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Metodologías ágiles I",
+            "Nombre": "Patience",
+            "Apellido": "Hyde"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de aprendizaje: Fundamentos del branding",
+            "Nombre": "Mira",
+            "Apellido": "Salas"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Emprender para ser Feliz",
+            "Nombre": "Luke",
+            "Apellido": "Munoz"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Inversiones",
+            "Nombre": "Ignatius",
+            "Apellido": "Lester"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: Aspecto fundamentales de la Inclusión Social",
+            "Nombre": "Hedwig",
+            "Apellido": "Good"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Elementos indispensables para la resolución de problemas de venta",
+            "Nombre": "David",
+            "Apellido": "Petty"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Futuro del Trabajo",
+            "Nombre": "Rogan",
+            "Apellido": "Mcintyre"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Gestión de Proyectos",
+            "Nombre": "Ryan",
+            "Apellido": "Bryant"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Git y GitHub: Control de versiones en Proyectos Web",
+            "Nombre": "Gloria",
+            "Apellido": "Thompson"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Growth Hacking",
+            "Nombre": "Mohammad",
+            "Apellido": "Chan"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Business Design para UX",
+            "Nombre": "Deacon",
+            "Apellido": "Jordan"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Seguridad Informática",
+            "Nombre": "Leah",
+            "Apellido": "Woods"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de Aprendizaje: Orígenes de la Escritura",
+            "Nombre": "Pearl",
+            "Apellido": "Lane"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: Tendencias de marketing",
+            "Nombre": "Patience",
+            "Apellido": "Hyde"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Pitching",
+            "Nombre": "Zelda",
+            "Apellido": "Bowman"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Networking",
+            "Nombre": "Tate",
+            "Apellido": "Hunter"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Representación tridimensional",
+            "Nombre": "Gage",
+            "Apellido": "Macdonald"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Realidad Virtual",
+            "Nombre": "Zenaida",
+            "Apellido": "Best"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Trading: ¿Cómo invertir en bolsa?",
+            "Nombre": "Dexter",
+            "Apellido": "Barrett"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Resolución de Problemas",
+            "Nombre": "Eliana",
+            "Apellido": "Stark"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de aprendizaje: Organización y marketing",
+            "Nombre": "Joseph",
+            "Apellido": "Ochoa"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de aprendizaje: Formulación de Estados financieros I",
+            "Nombre": "Cyrus",
+            "Apellido": "Ross"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: Herramientas de Afrontamiento",
+            "Nombre": "Dale",
+            "Apellido": "O'donnell"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: La radio",
+            "Nombre": "Reed",
+            "Apellido": "Moses"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Marketing Aplicado 1",
+            "Nombre": "Leah",
+            "Apellido": "Woods"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de aprendizaje: Inteligencia social",
+            "Nombre": "Haley",
+            "Apellido": "Kirkland"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Herramientas de Producción Fotográfica",
+            "Nombre": "Hiram",
+            "Apellido": "Valdez"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Introducción a la operatividad aduanera",
+            "Nombre": "Michael",
+            "Apellido": "Guzman"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de aprendizaje: Introducción al liderazgo estratégico",
+            "Nombre": "Phoebe",
+            "Apellido": "Richards"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Función cuadrática",
+            "Nombre": "Craig",
+            "Apellido": "Burns"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: Evolución de la publicidad",
+            "Nombre": "Grace",
+            "Apellido": "Pratt"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Fundamentos de la composición visual",
+            "Nombre": "Vincent",
+            "Apellido": "Blanchard"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Branding e Identidad de Marca",
+            "Nombre": "Dale",
+            "Apellido": "O'donnell"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Introducción a la Dirección de Fotografía",
+            "Nombre": "Brianna",
+            "Apellido": "Sims"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Diseño de Interacción Ágil para Productos",
+            "Nombre": "Carter",
+            "Apellido": "Weber"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de Aprendizaje: Álgebra",
+            "Nombre": "Hedwig",
+            "Apellido": "Good"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de aprendizaje: Aspectos fundamentales de la persona",
+            "Nombre": "Germane",
+            "Apellido": "Ball"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Inducción",
+            "Nombre": "Noah",
+            "Apellido": "Reyes"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Construye tu marca personal con el método Canvas",
+            "Nombre": "Tamekah",
+            "Apellido": "English"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje:  Herramientas de Validación",
+            "Nombre": "Doris",
+            "Apellido": "Kirby"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "CRM: Qué es, Funciones, Pilares y Elementos",
+            "Nombre": "Beau",
+            "Apellido": "Love"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Resolución de Problemas Complejos",
+            "Nombre": "Madaline",
+            "Apellido": "Sykes"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Redes sociales desde cero: Logra el éxito digital",
+            "Nombre": "Jerome",
+            "Apellido": "Faulkner"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: Promoción de Productos y Servicios",
+            "Nombre": "Stone",
+            "Apellido": "Terry"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Soft skills para ventas digitales",
+            "Nombre": "Warren",
+            "Apellido": "Robbins"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Medios de Pago Online y Estrategias Anti-Fraude",
+            "Nombre": "Nicholas",
+            "Apellido": "Fuentes"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Modelado e impresión 3D",
+            "Nombre": "Ignatius",
+            "Apellido": "Lester"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Parámetros de creación publicitaria",
+            "Nombre": "Hayden",
+            "Apellido": "Donovan"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Reuniones de Trabajo Remoto Efectivas",
+            "Nombre": "Vance",
+            "Apellido": "Pope"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: Principios de Semiótica en Diseño",
+            "Nombre": "Cody",
+            "Apellido": "Herman"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Pensamiento Estratégico",
+            "Nombre": "Kristen",
+            "Apellido": "Holden"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Talento Humano",
+            "Nombre": "Dana",
+            "Apellido": "Bernard"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: Tipos de Logogramas",
+            "Nombre": "Sybill",
+            "Apellido": "Holland"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de aprendizaje: Principios del sonido",
+            "Nombre": "Leah",
+            "Apellido": "Woods"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Trust Building: Fortaleciendo Relaciones",
+            "Nombre": "Wallace",
+            "Apellido": "Rose"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Proyección de ventas efectivas",
+            "Nombre": "Gloria",
+            "Apellido": "Thompson"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "derecho",
+            "Nombre curso": "Lista de Aprendizaje: Indicadores y Herramientas de Gestión",
+            "Nombre": "Ginger",
+            "Apellido": "Shepherd"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de Aprendizaje: Fidelización de Clientes",
+            "Nombre": "Lamar",
+            "Apellido": "Mcleod"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "comunicacion",
+            "Nombre curso": "Lista de Aprendizaje: El cliente",
+            "Nombre": "Eliana",
+            "Apellido": "Stark"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: El Consumidor en la Investigación de Mercado",
+            "Nombre": "Deacon",
+            "Apellido": "Jordan"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "ciencia politica",
+            "Nombre curso": "Lista de Aprendizaje: El Desarrollo Creativo",
+            "Nombre": "Amery",
+            "Apellido": "Wise"
+        },
+        {
+            "Nombre facultad": "Humanidades y Ciencias Sociales",
+            "Nombre carrera": "psicologia",
+            "Nombre curso": "Lista de Aprendizaje: Estrategias comerciales",
+            "Nombre": "Ruth",
+            "Apellido": "Carter"
+        }
+    ]
+}
